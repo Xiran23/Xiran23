@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Chiran Raj Thapa</h1>
 <h3 align="center">I'm currently Studying Computer Science (3rd Year)</h3>
-img align="right" alt="Coding" width="400" src="https://i.gifer.com/78KH.gif"
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/78KH.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiran23&label=Profile%20views&color=0e75b6&style=flat" alt="xiran23" /> </p>
 
