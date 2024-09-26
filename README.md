@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Chiran Raj Thapa</h1>
 <h3 align="center">I'm currently Studying Computer Science (4<sup>th</sup> year
 )</h3>
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjczNzY5MDEsIm5iZiI6MTcyNzM3NjYwMSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTI2VDE4NTAwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIxZDdkMDcxMGJlZWRmYWJhMzYxY2NhNzdhZGQ3MzU5Y2VlOTFkMWJmMTQ2NTUzY2M3ZDJjZTVkZGVjNTA4ZDEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.0jRulctAEwEGj4jRcWmEMdKR6DgNZxSVvpgldMFBjwY">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiran23&label=Profile%20views&color=0e75b6&style=flat" alt="xiran23" /> </p>
 
